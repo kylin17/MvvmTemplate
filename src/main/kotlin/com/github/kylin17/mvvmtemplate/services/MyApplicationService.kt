@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.kylin17.mvvmtemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.kylin17.mvvmtemplate.MyBundle
 
 class MyApplicationService {
 
